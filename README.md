@@ -103,51 +103,6 @@ I'm a passionate **AI & Machine Learning** engineering student with a strong fou
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🤖 Laptop Price Prediction System
-**May 2025** | *Machine Learning & Web Development*
-
-<img src="https://img.shields.io/badge/Accuracy-88%25-brightgreen?style=flat-square&logo=chartdotjs" alt="Accuracy" />
-<img src="https://img.shields.io/badge/Algorithms-10+-blue?style=flat-square&logo=python" alt="Algorithms" />
-
-- Trained and compared **10+ ML algorithms** achieving **88% accuracy**
-- Built responsive web interface with **Streamlit** for real-time predictions
-- Implemented complete ML pipeline with **Pickle serialization**
-- Features **12 specification inputs** for comprehensive price estimation
-
----
-
-### 🏗️ Construction Cost Estimation A.I. Agent
-**January 2025** | *AI & LLM Integration*
-
-<img src="https://img.shields.io/badge/LLM-Llama%203.2-orange?style=flat-square&logo=meta" alt="LLM" />
-<img src="https://img.shields.io/badge/AI-Powered-red?style=flat-square&logo=openai" alt="AI" />
-
-- AI-powered tool for **construction cost estimation** using advanced LLMs
-- Integrated **Ollama, Llama 3.2, and AnythingLLM** for optimization
-- Designed for **contractors and architects** with real-time projections
-- Advanced natural language processing for cost analysis
-
----
-
-### ⚽ Sport Connect
-**October 2024** | *Full Stack Development*
-
-<img src="https://img.shields.io/badge/Stack-MERN-green?style=flat-square&logo=mongodb" alt="Stack" />
-<img src="https://img.shields.io/badge/Real--time-Chat-blue?style=flat-square&logo=socket.io" alt="Real-time" />
-
-- **MERN stack** social platform for sports event organization
-- Implemented **real-time chat** and **event scheduling**
-- **MongoDB** for dynamic data storage and **Tailwind CSS** for UI
-- Complete **authentication system** and **team management**
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -158,46 +113,6 @@ I'm a passionate **AI & Machine Learning** engineering student with a strong fou
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TANMAY4806w&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🎯 **Research & Publication** | 📜 **Certifications** |
-|:---:|:---:|
-| **Quantum-Secure Unified Blockchain Network (QSUN)** | **Python for Data Science** - NPTEL (79%) |
-| *Presented at TCET, 2025* | **Introduction to SQL** - Simplilearn |
-| AI-Driven Cybersecurity Framework | **Python for Beginners** - Udemy |
-| | **Cybersecurity Workshop** - OWASP (30 Hours) |
-
-</div>
-
----
-
-## 🎓 Education & Training
-
-<table align="center">
-<tr>
-<td align="center"><strong>🎓 Current Education</strong></td>
-<td align="center"><strong>📚 Specialized Training</strong></td>
-</tr>
-<tr>
-<td align="center">
-<strong>B.Tech in AI & ML</strong><br>
-ALDEL Institute's St. John's College<br>
-<em>CGPA: 7.05</em><br>
-2022 - Present
-</td>
-<td align="center">
-<strong>Python Programming & Data Structures</strong><br>
-Campus Credentials (May 2025)<br><br>
-<strong>Blockchain Development</strong><br>
-Tech Ustaad (Nov 2024)
-</td>
-</tr>
-</table>
 
 ---
 
