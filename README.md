@@ -16,12 +16,11 @@
 
 I'm a passionate **AI & Machine Learning** engineering student with a strong foundation in full-stack development and emerging technologies. Currently pursuing my B.Tech at ALDEL Institute's St. John's College of Engineering and Management, I love building innovative solutions that bridge the gap between cutting-edge AI and practical applications.
 
-- 🔭 Currently working on **Machine Learning Projects** and **Blockchain Development**
-- 🌱 Learning advanced **Deep Learning** and **Quantum Computing**
+- 🔭 Currently working on **Machine Learning Projects** and **Web Development**
+- 🌱 Learning advanced **Deep Learning** and **Computer vision**
 - 👯 Looking to collaborate on **AI/ML Projects** and **Open Source Contributions**
-- 💬 Ask me about **Python, Machine Learning, MERN Stack, Blockchain**
+- 💬 Ask me about **Python, Machine Learning, MERN Stack, AI, DS**
 - 📫 Reach me at: **patiltanmay019@gmail.com**
-- ⚡ Fun fact: I love exploring the intersection of **AI and Cybersecurity**
 
 ---
 
@@ -163,10 +162,10 @@ Tech Ustaad (Nov 2024)
   <a href="mailto:patiltanmay019@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tanmaypatil">
+  <a href="www.linkedin.com/in/tanmay-patil-805049250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/tanmaypatil">
+  <a href="[https://github.com/tanmaypatil](https://github.com/TANMAY4806w)">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -178,5 +177,5 @@ Tech Ustaad (Nov 2024)
 </div>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/tanmaypatil">Tanmay Patil</a> - Building the future with AI & Code</sub>
+  <sub>⭐ From <a href="[https://github.com/tanmaypatil](https://github.com/TANMAY4806w)">Tanmay Patil</a> - Building the future with AI & Code</sub>
 </div>
