@@ -74,7 +74,7 @@ I'm a passionate **AI & Machine Learning** engineering student with a strong fou
 ## 📄 Resume
 
 <div align="center">
-  <a href="https://github.com/TANMAY4806w/TANMAY4806w/raw/main/TANMAYRE.pdf" target="_blank">
+  <a href="https://github.com/TANMAY4806w/TANMAY4806w/raw/main/Tanmay_Patil_Software_Engineer_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
   <br>
