@@ -53,14 +53,14 @@
 
 ## Experience
 
-| ROLE | WHAT I WORK ON |
+| ROLE | FOCUS |
 | :--- | :--- |
 | **AI Trainee · American Hairline**<br /><sub>Mar 2026 — Present</sub> | Multimodal image generation, agentic knowledge capture, meeting intelligence, and conversational order automation. |
-| **AI Developer Intern · Arkham Archives**<br /><sub>Jun 2025 — Sep 2025</sub> | LLM-powered support chatbots and multi-turn prompt improvements for more relevant, consistent responses. |
+| **AI Developer Intern · Arkham Archives**<br /><sub>Jun 2025 — Sep 2025</sub> | LLM-powered support chatbots and multi-turn prompt improvements for more relevant, consistent responses. | LLM-powered support chatbots and multi-turn prompt improvements for more relevant, consistent responses. |
 
 ## Toolkit
 
-| BUILDING WITH | TOOLS |
+| AREA | TOOLKIT |
 | :--- | :--- |
 | **AI systems** | LLMs · RAG · LangGraph · Gemini · OpenRouter · Hugging Face · MCP |
 | **Apps & APIs** | Python · FastAPI · Flask · React · Next.js · Streamlit · REST |
