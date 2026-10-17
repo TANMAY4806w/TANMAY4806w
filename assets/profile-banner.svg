@@ -1,20 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Tanmay Patil | AI Engineer</title>
-  <desc id="desc">A warm charcoal banner with sage and terracotta details.</desc>
-  <rect width="1200" height="260" rx="22" fill="#25292B"/>
-  <rect x="0" y="0" width="10" height="260" rx="5" fill="#C8795B"/>
-  <circle cx="1040" cy="118" r="88" fill="none" stroke="#A8B39D" stroke-opacity=".28" stroke-width="2"/>
-  <circle cx="1040" cy="118" r="60" fill="none" stroke="#C8795B" stroke-opacity=".65" stroke-width="2"/>
-  <circle cx="1040" cy="118" r="11" fill="#A8B39D"/>
-  <circle cx="1040" cy="30" r="5" fill="#C8795B"/>
-  <circle cx="1128" cy="118" r="5" fill="#C8795B"/>
-  <circle cx="952" cy="118" r="5" fill="#C8795B"/>
-  <path d="M982 176 1020 137M1060 99l38-39M1060 137l38 39" stroke="#A8B39D" stroke-opacity=".55" stroke-width="2"/>
-  <circle cx="982" cy="176" r="5" fill="#A8B39D"/>
-  <circle cx="1098" cy="60" r="5" fill="#A8B39D"/>
-  <circle cx="1098" cy="176" r="5" fill="#A8B39D"/>
-  <text x="72" y="78" fill="#A8B39D" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4">BUILDING USEFUL AI</text>
-  <text x="68" y="148" fill="#F2EEE4" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1">Tanmay Patil</text>
-  <text x="72" y="190" fill="#D8D5CB" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="1">AI ENGINEER  ·  AGENTIC AI  ·  MULTIMODAL SYSTEMS</text>
-  <path d="M72 218h190" stroke="#C8795B" stroke-width="3" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Tanmay Patil — AI Engineer</title>
+  <desc id="desc">A warm, editorial AI engineering banner showing a connected path from input to model to tools to product.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#202526"/>
+      <stop offset="1" stop-color="#303634"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C8795B" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#A8B39D" stop-opacity=".08"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#F2EEE4" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="26" fill="url(#grid)"/>
+  <path d="M0 0h10v360H0z" fill="#C8795B"/>
+  <path d="M780 0h500v360H780z" fill="url(#glow)"/>
+  <path d="M728 48v264" stroke="#F2EEE4" stroke-opacity=".12"/>
+
+  <text x="68" y="72" fill="#A8B39D" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3.6">TANMAY PATIL  /  AI ENGINEER</text>
+  <text x="64" y="154" fill="#F3EFE7" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Useful AI,</text>
+  <text x="64" y="220" fill="#F3EFE7" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2">thoughtfully built.</text>
+  <text x="68" y="270" fill="#D9D6CC" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing=".3">Models into products — agents, multimodal tools, real workflows.</text>
+  <path d="M68 306h168" stroke="#C8795B" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="248" cy="306" r="4" fill="#A8B39D"/>
+
+  <text x="784" y="72" fill="#A8B39D" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.8">FROM SIGNAL TO SOLUTION</text>
+
+  <path d="M842 183H944M1014 183H1086M1156 183h55" fill="none" stroke="#A8B39D" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M942 183l-9-6v12zM1084 183l-9-6v12zM1209 183l-9-6v12z" fill="#C8795B"/>
+
+  <rect x="784" y="139" width="116" height="88" rx="14" fill="#252B2B" stroke="#A8B39D" stroke-opacity=".34"/>
+  <circle cx="806" cy="163" r="5" fill="#C8795B"/>
+  <text x="801" y="190" fill="#F3EFE7" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">INPUT</text>
+  <text x="801" y="210" fill="#B7B9AE" font-family="Segoe UI,Arial,sans-serif" font-size="11">signal + context</text>
+
+  <rect x="944" y="125" width="116" height="116" rx="18" fill="#A8B39D"/>
+  <circle cx="1002" cy="157" r="14" fill="#29302D"/>
+  <path d="M1002 143v28M988 157h28M992 147l20 20M1012 147l-20 20" stroke="#D9D6CC" stroke-opacity=".75" stroke-width="1.5"/>
+  <text x="974" y="196" fill="#202526" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">MODEL</text>
+  <text x="965" y="216" fill="#38403A" font-family="Segoe UI,Arial,sans-serif" font-size="11">reason + generate</text>
+
+  <rect x="1086" y="139" width="116" height="88" rx="14" fill="#252B2B" stroke="#C8795B" stroke-opacity=".62"/>
+  <circle cx="1108" cy="163" r="5" fill="#A8B39D"/>
+  <text x="1103" y="190" fill="#F3EFE7" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">TOOLS</text>
+  <text x="1103" y="210" fill="#B7B9AE" font-family="Segoe UI,Arial,sans-serif" font-size="11">APIs + actions</text>
+
+  <rect x="1210" y="151" width="46" height="64" rx="12" fill="#C8795B"/>
+  <path d="M1223 183l8 8 14-17" fill="none" stroke="#202526" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="858" cy="282" r="3" fill="#A8B39D" fill-opacity=".7"/>
+  <circle cx="883" cy="282" r="3" fill="#A8B39D" fill-opacity=".45"/>
+  <circle cx="908" cy="282" r="3" fill="#A8B39D" fill-opacity=".25"/>
+  <text x="929" y="286" fill="#D9D6CC" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.4">GENAI  ×  SYSTEMS  ×  PRODUCT</text>
 </svg>
