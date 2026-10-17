@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="./Tanmay_Patil_AI_Dev.pdf"><img src="./assets/button-resume.svg" alt="View resume" height="30" /></a>
+  <a href="./Tanmay_Patil_AI_Dev.pdf"><img src="./assets/contact-resume-2026.svg" alt="View resume" height="30" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tanmay-patil-805049250/"><img src="./assets/button-linkedin.svg" alt="LinkedIn profile" height="30" /></a>
+  <a href="https://www.linkedin.com/in/tanmay-patil-805049250/"><img src="./assets/contact-linkedin-2026.svg" alt="LinkedIn profile" height="30" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:patiltanmay019@gmail.com"><img src="./assets/button-email.svg" alt="Send email" height="30" /></a>
+  <a href="mailto:patiltanmay019@gmail.com"><img src="./assets/contact-email-2026.svg" alt="Send email" height="30" /></a>
 </p>
 
 ## Selected work
@@ -53,25 +53,37 @@
 
 ## Experience
 
-| ROLE | FOCUS |
-| :--- | :--- |
-| **AI Trainee · American Hairline**<br /><sub>Mar 2026 — Present</sub> | Multimodal image generation, agentic knowledge capture, meeting intelligence, and conversational order automation. |
-| **AI Developer Intern · Arkham Archives**<br /><sub>Jun 2025 — Sep 2025</sub> | LLM-powered support chatbots and multi-turn prompt improvements for more relevant, consistent responses. | LLM-powered support chatbots and multi-turn prompt improvements for more relevant, consistent responses. |
+<sub>01 &nbsp;·&nbsp; MAR 2026 — PRESENT</sub>
+
+### AI Trainee · American Hairline
+
+Building internal AI products across multimodal image generation, agentic knowledge capture, meeting intelligence, and conversational order automation—connecting AI models to practical team workflows.
+
+<sub>02 &nbsp;·&nbsp; JUN 2025 — SEP 2025</sub>
+
+### AI Developer Intern · Arkham Archives
+
+Built LLM-powered support chatbots and improved multi-turn prompts to make responses more relevant and consistent.
 
 ## Toolkit
 
-| AREA | TOOLKIT |
-| :--- | :--- |
-| **AI systems** | LLMs · RAG · LangGraph · Gemini · OpenRouter · Hugging Face · MCP |
-| **Apps & APIs** | Python · FastAPI · Flask · React · Next.js · Streamlit · REST |
-| **Data & automation** | PostgreSQL · Supabase · Firebase · n8n · Google Apps Script |
-| **ML & delivery** | Scikit-learn · TensorFlow · YOLOv8 · XGBoost · Docker · AWS · Vercel |
+**AI & agents**<br />
+`LLMs` &nbsp; `RAG` &nbsp; `LangGraph` &nbsp; `Gemini` &nbsp; `OpenRouter` &nbsp; `Hugging Face` &nbsp; `MCP`
 
-## Beyond the screen
+**Apps & APIs**<br />
+`Python` &nbsp; `FastAPI` &nbsp; `Flask` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Streamlit` &nbsp; `REST`
 
-**B.Tech in Artificial Intelligence & Machine Learning**<br />
+**Data & automation**<br />
+`PostgreSQL` &nbsp; `Supabase` &nbsp; `Firebase` &nbsp; `n8n` &nbsp; `Google Apps Script`
+
+**ML & delivery**<br />
+`Scikit-learn` &nbsp; `TensorFlow` &nbsp; `YOLOv8` &nbsp; `XGBoost` &nbsp; `Docker` &nbsp; `AWS` &nbsp; `Vercel`
+
+## Education
+
+**B.Tech · Artificial Intelligence & Machine Learning**<br />
 ALDEL Institute’s St. John’s College of Engineering and Management · `2022–2026`<br />
-Based in Maharashtra, India
+<sub>MAHARASHTRA, INDIA</sub>
 
 ---
 
