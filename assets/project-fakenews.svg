@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#222a25"/><stop offset="1" stop-color="#111613"/></linearGradient></defs>
+  <rect width="600" height="190" rx="16" fill="url(#g)"/>
+  <circle cx="512" cy="43" r="90" fill="#d98c68" opacity=".08"/><circle cx="105" cy="186" r="105" fill="#9fb59c" opacity=".07"/>
+  <rect x="39" y="31" width="285" height="128" rx="10" fill="#e8e2d1"/>
+  <rect x="58" y="50" width="151" height="8" rx="4" fill="#586b5b"/><rect x="58" y="71" width="242" height="4" rx="2" fill="#b5ad9d"/><rect x="58" y="84" width="228" height="4" rx="2" fill="#b5ad9d"/><rect x="58" y="97" width="235" height="4" rx="2" fill="#b5ad9d"/><rect x="58" y="123" width="119" height="20" rx="10" fill="#d8e0d3"/>
+  <text x="69" y="137" fill="#425646" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1">CLAIM CHECK</text>
+  <circle cx="396" cy="88" r="43" fill="#29342d" stroke="#9fb59c" stroke-width="5"/><path d="m427 120 44 38" stroke="#d98c68" stroke-width="11" stroke-linecap="round"/>
+  <path d="m377 88 13 13 26-29" fill="none" stroke="#9fb59c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="474" y="44" width="91" height="33" rx="16" fill="#d98c68"/><text x="494" y="65" fill="#171b17" font-family="ui-monospace,monospace" font-size="11" letter-spacing="1">VERIFY</text>
+  <text x="354" y="181" fill="#e8e2d1" font-family="ui-monospace,monospace" font-size="11" letter-spacing="1">MODEL + WEB SIGNALS</text>
+</svg>

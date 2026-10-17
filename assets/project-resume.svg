@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#222a25"/><stop offset="1" stop-color="#111613"/></linearGradient></defs>
+  <rect width="600" height="190" rx="16" fill="url(#g)"/>
+  <circle cx="514" cy="54" r="84" fill="#d98c68" opacity=".08"/><circle cx="64" cy="172" r="100" fill="#9fb59c" opacity=".08"/>
+  <rect x="53" y="28" width="128" height="142" rx="10" fill="#e8e2d1"/>
+  <path d="M153 28v30h28" fill="#c9c1af"/><path d="M153 28v30h28" fill="none" stroke="#a79e8c" stroke-width="2"/>
+  <rect x="72" y="70" width="68" height="7" rx="3.5" fill="#586b5b"/><rect x="72" y="88" width="90" height="5" rx="2.5" fill="#b5ad9d"/><rect x="72" y="102" width="80" height="5" rx="2.5" fill="#b5ad9d"/><rect x="72" y="116" width="88" height="5" rx="2.5" fill="#b5ad9d"/><rect x="72" y="139" width="42" height="14" rx="7" fill="#d98c68"/>
+  <path d="m268 96 35-27 32 25 42-38 34 28" fill="none" stroke="#9fb59c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="268" cy="96" r="5" fill="#d98c68"/><circle cx="303" cy="69" r="5" fill="#e8e2d1"/><circle cx="335" cy="94" r="5" fill="#d98c68"/><circle cx="377" cy="56" r="5" fill="#e8e2d1"/><circle cx="411" cy="84" r="5" fill="#d98c68"/>
+  <rect x="460" y="41" width="94" height="102" rx="12" fill="#29342d" stroke="#536759"/>
+  <path d="M484 95 499 110 531 75" fill="none" stroke="#9fb59c" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="232" y="151" fill="#e8e2d1" font-family="ui-monospace,monospace" font-size="13" letter-spacing="2">TAILORED · EXPORTED · READY</text>
+</svg>
