@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Tanmay Patil | AI Engineer</title>
+  <desc id="desc">A warm charcoal banner with sage and terracotta details.</desc>
+  <rect width="1200" height="260" rx="22" fill="#25292B"/>
+  <rect x="0" y="0" width="10" height="260" rx="5" fill="#C8795B"/>
+  <circle cx="1040" cy="118" r="88" fill="none" stroke="#A8B39D" stroke-opacity=".28" stroke-width="2"/>
+  <circle cx="1040" cy="118" r="60" fill="none" stroke="#C8795B" stroke-opacity=".65" stroke-width="2"/>
+  <circle cx="1040" cy="118" r="11" fill="#A8B39D"/>
+  <circle cx="1040" cy="30" r="5" fill="#C8795B"/>
+  <circle cx="1128" cy="118" r="5" fill="#C8795B"/>
+  <circle cx="952" cy="118" r="5" fill="#C8795B"/>
+  <path d="M982 176 1020 137M1060 99l38-39M1060 137l38 39" stroke="#A8B39D" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="982" cy="176" r="5" fill="#A8B39D"/>
+  <circle cx="1098" cy="60" r="5" fill="#A8B39D"/>
+  <circle cx="1098" cy="176" r="5" fill="#A8B39D"/>
+  <text x="72" y="78" fill="#A8B39D" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4">BUILDING USEFUL AI</text>
+  <text x="68" y="148" fill="#F2EEE4" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1">Tanmay Patil</text>
+  <text x="72" y="190" fill="#D8D5CB" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="1">AI ENGINEER  ·  AGENTIC AI  ·  MULTIMODAL SYSTEMS</text>
+  <path d="M72 218h190" stroke="#C8795B" stroke-width="3" stroke-linecap="round"/>
+</svg>
